@@ -9,9 +9,9 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaybkim/)](https://www.linkedin.com/in/jaybkim/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/kogisin_jayb/)](https://twitter.com/kogisin_jayb/)
 
-🔭 &nbsp;I am currently working in blockchain industry.\
-💡 &nbsp;I like to explore new technologies and look for a way to create the things that change the world.\
-✍️ &nbsp;In my free time, I like to grap a beer and watch Netflix and chill.
+🔭 &nbsp;Currently working professionally with Golang as a backend engineer in blockchain.\
+💡 &nbsp;I like to solve problems and explore new technologies.\
+✍️ &nbsp;In my free time, I like to watch documentaries and watch Netflix and chill.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -29,7 +29,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-Technologies that I've been learning and I've picked up along my programming journey.
+Technologies that I've been learning and picked up along my programming journey.
 
 #### ₿ Blockchain : <br />
 
