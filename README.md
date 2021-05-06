@@ -1,6 +1,6 @@
 <div align="center">
   <h2> 
-    Hi, there! I am JayB Kim<img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px">
+    Hi, there! <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px">
   </h2>
 </div>
 
