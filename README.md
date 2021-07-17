@@ -4,12 +4,10 @@
   </h2>
 </div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kogisin/kogisin)
-
 ### 👨🏻‍💻 &nbsp;Little About Me
 
-🔭 &nbsp;I'm currently working professionally with Golang as a blockchain developer.\
-💡 &nbsp;I'm passionate about exploring new technology and building things for the better world.
+👨🏻‍💻 &nbsp;I'm currently working professionally with Golang as a blockchain engineer.\
+🔭 &nbsp;I'm passionate about exploring new technology and building things for the better world.
 
 ### ✨ GitHub Stats
 
