@@ -6,8 +6,9 @@
 
 ### 👨 &nbsp;About Me
 
-- &nbsp;I'm working professionally as a blockchain engineer 
-- &nbsp;I love to explore new technology and build things for the better world
+- &nbsp;I am a Cosmonaut since 2017
+- &nbsp;I like to get my hands dirty with potential blockchain projects :)
+- &nbsp;I like to build developer-friendly programs that are robust, secure, and maintainable 
 
 ### ✨ GitHub Stats
 
